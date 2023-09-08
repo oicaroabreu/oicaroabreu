@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **oicaroabreu/oicaroabreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Ícaro Abreu</h1>
+<h3 align="center">A passionate backend developer from Brazil</h3>
+
+- 🔭 I’m currently working on **Ponto Voucher**
+
+- 🌱 I’m currently learning **Django, Holochain, AWS and Serveless Architecture**
+
+- 💬 Ask me about **Serveless Architecture, Holochain and Django Development**
+
+- 📫 How to reach me **icaro.labreu@gmail.com**
+
+### Connect with me:
+<p align="left">
+<a href="https://dev.to/oicaroabreu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="oicaroabreu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/icaroabreu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="icaroabreu" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/icaroabreu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="icaroabreu" height="30" width="40" /></a>
+</p>
+
+### I'm also having fun!
+![Leetcode Stats](https://leetcard.jacoblin.cool/icaroabreu)
