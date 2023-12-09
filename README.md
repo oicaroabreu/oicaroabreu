@@ -34,4 +34,6 @@ Here are some ideas to get you started:
 </p>
 
 ### I'm also having fun!
+[![oicaroabreu's GitHub | Stats](https://stats.quine.sh/oicaroabreu/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=oicaroabreu)
+[![oicaroabreu's GitHub | Dependencies](https://stats.quine.sh/oicaroabreu/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=oicaroabreu)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/icaroabreu)
