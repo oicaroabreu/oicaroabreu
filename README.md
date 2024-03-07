@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Ícaro Abreu</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+<h3 align="center">A passionate DevOps Engineer from Brazil</h3>
 
 - 🔭 I’m currently working on **Ponto Voucher**
 
 - 🌱 I’m currently learning **Django, Holochain, AWS and Serveless Architecture**
 
-- 💬 Ask me about **Serveless Architecture, Holochain and Django Development**
+- 💬 Ask me about **Serveless Architecture and Holochain**
 
 - 📫 How to reach me **icaro.labreu@gmail.com**
 
@@ -36,4 +36,3 @@ Here are some ideas to get you started:
 ### I'm also having fun!
 [![oicaroabreu's GitHub | Stats](https://stats.quine.sh/oicaroabreu/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=oicaroabreu)
 [![oicaroabreu's GitHub | Dependencies](https://stats.quine.sh/oicaroabreu/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=oicaroabreu)
-![Leetcode Stats](https://leetcard.jacoblin.cool/icaroabreu)
