@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Screenshot_20250303_014320_LinkedIn](https://github.com/user-attachments/assets/416fb7e4-b682-4888-ab08-145af3e32921)
 
 <!--
 **oicaroabreu/oicaroabreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,13 +19,16 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ícaro Abreu</h1>
 <h3 align="center">A passionate DevOps Engineer from Brazil</h3>
 
-- 🔭 I’m currently working on **Ponto Voucher**
+- 🔭 I’m currently working on **In2clouds**
 
-- 🌱 I’m currently learning **Django, Holochain, AWS and Serveless Architecture**
+- 🌱 I’m currently learning **Django, All things AI, Holochain, AWS and Serveless Architecture**
 
-- 💬 Ask me about **Serveless Architecture and Holochain**
+- 💬 Ask me about **AI, Serveless Architecture and Holochain**
 
 - 📫 How to reach me **icaro.labreu@gmail.com**
+
+## Badges
+<a href="https://github.com/oicaroabreu/llm-eco-quest" target="blank"><img align="center" src="https://quira.sh/images/badges/gen-ai-creator.svg" alt="Eco Quest" height="150" width="150" /></a>
 
 ### Connect with me:
 <p align="left">
@@ -32,6 +36,8 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/icaroabreu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="icaroabreu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/icaroabreu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="icaroabreu" height="30" width="40" /></a>
 </p>
+
+
 
 ### I'm also having fun!
 [![oicaroabreu's GitHub | Stats](https://stats.quine.sh/oicaroabreu/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=oicaroabreu)
